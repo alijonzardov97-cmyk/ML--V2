@@ -1,0 +1,15 @@
+<resources>
+    <color name="bg_root">#0F1620</color>
+    <color name="card_accent">#3B5BFF</color>
+    <color name="card_accent_dark">#1E3AE0</color>
+    <color name="card_surface">#1A2430</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="text_primary">#F2F5F8</color>
+    <color name="text_secondary">#8B98A8</color>
+    <color name="status_active">#33D17A</color>
+    <color name="status_inactive">#5A6472</color>
+    <color name="severity_low">#4FC3F7</color>
+    <color name="severity_medium">#FFB74D</color>
+    <color name="severity_high">#FF5C5C</color>
+</resources>

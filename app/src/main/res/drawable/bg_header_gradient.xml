@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:startColor="@color/card_accent"
+        android:centerColor="@color/card_accent_dark"
+        android:endColor="#0F1620" />
+</shape>
